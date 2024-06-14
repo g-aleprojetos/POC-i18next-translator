@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/poc-i18next-translator/static/css/main.90f6920e.css",
+    "main.js": "/poc-i18next-translator/static/js/main.79d6d2d3.js",
+    "static/media/i18next.svg": "/poc-i18next-translator/static/media/i18next.af1596dde9acca6996b9021af50e3f7e.svg",
+    "index.html": "/poc-i18next-translator/index.html",
+    "main.90f6920e.css.map": "/poc-i18next-translator/static/css/main.90f6920e.css.map",
+    "main.79d6d2d3.js.map": "/poc-i18next-translator/static/js/main.79d6d2d3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.90f6920e.css",
+    "static/js/main.79d6d2d3.js"
+  ]
+}
