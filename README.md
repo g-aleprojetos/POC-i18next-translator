@@ -1,70 +1,73 @@
-# Getting Started with Create React App
+# POC - i18Next
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![GitHub](https://img.shields.io/github/license/g-aleprojetos-Projects/POC-i18next?style=plastic)
+![GitHub repo size](https://img.shields.io/github/repo-size/g-aleprojetos-Projects/POC-i18next?style=plastic)
+![GitHub forks](https://img.shields.io/github/forks/g-aleprojetos-Projects/POC-i18next?style=plastic)
+![GitHub Repo stars](https://img.shields.io/github/stars/g-aleprojetos-Projects/POC-i18next?style=plastic)
 
-## Available Scripts
+## Índice 
+* [Introducao](#introducao)
+* [i18n](#i18n)
+* [Setup](#setup)
+* [Executar o projeto](#setup)
+* [Faça um fork do projeto](#executar)
+* [Instalar as bibliotecas](#biblioteca)
+* [Rodar o projeto](#projeto)
+* [Rodar os testes](#teste)
+* [Rodar os testes e emite o reatório coverage](#coverage)
+* [Links](#links)
 
-In the project directory, you can run:
+## Introdução
+<a name="introducao"/>
+Utiliza o framework <a href = "https://www.i18next.com/" target="_blank">i18next</a> em um projeto <a href = "https://pt-br.reactjs.org/" target="_blank">React</a> com testes. 
 
-### `npm start`
+## i18next
+<a name="i18n"/>
+<a href = "https://www.i18next.com/" target="_blank">i18next</a> é uma biblioteca de internacionalização (i18n) para aplicativos web e móveis. Ele permite que você adicione suporte a vários idiomas em seu aplicativo, gerencie suas traduções e altere dinamicamente o idioma do aplicativo. Ele é compatível com vários frameworks JavaScript, incluindo React, Angular, Vue e outros. Ele também suporta aplicativos server-side com Node.js. Ele é uma das bibliotecas mais populares e completas para internacionalização no ecossistema JavaScript.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Setup
+<a name="setup"/>
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+- Ferramentas necessárias:
+  - Visual studio Code
+  - Git
+  - Node (>= 16)
+  - React (18.2.0)
+  - Typescript
 
-### `npm test`
+## Executar o projeto
+<a name="executar"/>
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
+### Instalar as bibliotecas
+<a name="biblioteca"/>
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+```bash
+yarn install
+```
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### Executar o projeto
+<a name="projeto"/>
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+```bash
+yarn run start
+```
 
-### `npm run eject`
+### Executar os testes
+<a name="teste"/>
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+```bash
+yarn test
+```
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+### Executar os testes e emite o reatório coverage
+<a name="coverage"/>
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+```bash
+yarn run test --coverage --watchAll
+```
+### Links
+<a name="links"/>
+<a href = "https://pt-br.reactjs.org/" target="_blank">React</a></br>
+<a href = "https://www.i18next.com/" target="_blank">i18next</a></br>
+<a href = "https://locize.com/blog/react-i18next/" target="_blank">blog react-i18next</a>

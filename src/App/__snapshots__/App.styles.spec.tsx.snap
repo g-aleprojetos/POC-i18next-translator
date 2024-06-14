@@ -1,0 +1,76 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`App.styles Button DEVE ser igual ao snapshot 1`] = `
+<button
+  className="gldefs"
+/>
+`;
+
+exports[`App.styles Button DEVE ser igual ao snapshot QUANDO "escolhido" for igual a true 1`] = `
+<button
+  className="grjCIo"
+  data-escolhido={true}
+/>
+`;
+
+exports[`App.styles Container DEVE ser igual ao snapshot 1`] = `
+<div
+  className="dWlLnZ"
+/>
+`;
+
+exports[`App.styles ContainerArticle DEVE ser igual ao snapshot 1`] = `
+<article
+  className="gRTedU"
+/>
+`;
+
+exports[`App.styles ContainerButtons DEVE ser igual ao snapshot 1`] = `
+<div
+  className=""
+/>
+`;
+
+exports[`App.styles Header DEVE ser igual ao snapshot 1`] = `
+<div
+  className="kVkDoM"
+/>
+`;
+
+exports[`App.styles Imagei18Next DEVE ser igual ao snapshot 1`] = `
+<img
+  alt="i18Next"
+  className="bEdBbZ"
+  src="i18next.svg"
+/>
+`;
+
+exports[`App.styles Item DEVE ser igual ao snapshot 1`] = `
+<a
+  className="jljOCQ"
+/>
+`;
+
+exports[`App.styles Main DEVE ser igual ao snapshot 1`] = `
+<div
+  className="jBuTAN"
+/>
+`;
+
+exports[`App.styles Nav DEVE ser igual ao snapshot 1`] = `
+<nav
+  className="gCQovH"
+/>
+`;
+
+exports[`App.styles TextDescription DEVE ser igual ao snapshot 1`] = `
+<p
+  className="kMgaZE"
+/>
+`;
+
+exports[`App.styles Texto DEVE ser igual ao snapshot 1`] = `
+<p
+  className="fwPkAE"
+/>
+`;
