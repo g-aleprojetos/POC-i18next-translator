@@ -1,9 +1,9 @@
 # POC - i18Next
 
-![GitHub](https://img.shields.io/github/license/g-aleprojetos-Projects/POC-i18next?style=plastic)
-![GitHub repo size](https://img.shields.io/github/repo-size/g-aleprojetos-Projects/POC-i18next?style=plastic)
-![GitHub forks](https://img.shields.io/github/forks/g-aleprojetos-Projects/POC-i18next?style=plastic)
-![GitHub Repo stars](https://img.shields.io/github/stars/g-aleprojetos-Projects/POC-i18next?style=plastic)
+![GitHub](https://img.shields.io/github/license/g-aleprojetos/poc-i18next-translator?style=plastic)
+![GitHub repo size](https://img.shields.io/github/repo-size/g-aleprojetos/poc-i18next-translator?style=plastic)
+![GitHub forks](https://img.shields.io/github/forks/g-aleprojetos/poc-i18next-translator?style=plastic)
+![GitHub Repo stars](https://img.shields.io/github/stars/g-aleprojetos/poc-i18next-translator?style=plastic)
 
 ## Índice 
 * [Introducao](#introducao)
